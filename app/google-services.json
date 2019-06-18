@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798102837586",
+    "firebase_url": "https://bananapricetracking.firebaseio.com",
+    "project_id": "bananapricetracking",
+    "storage_bucket": "bananapricetracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798102837586:android:af5ea40d092843f0",
+        "android_client_info": {
+          "package_name": "com.felixtechlabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798102837586-udt9jklrprt339ajjtrksjj1nbibesjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.felixtechlabs",
+            "certificate_hash": "1bb1d392fcc9073a58f17ff2807d683c42eb3020"
+          }
+        },
+        {
+          "client_id": "798102837586-2rufut4hvqgu6kiso2psa2qspaqp7l87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYor_XVOZiYf9FQqlBbPCIrJijBmt_6Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798102837586-2rufut4hvqgu6kiso2psa2qspaqp7l87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
